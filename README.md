@@ -3,7 +3,9 @@
 ## Overview
 
 SafeSeek is a universal safety attribution framework for locating and analyzing safety circuits in Large Language Models (LLMs).
-
+<p align="center">
+  <img src="safeseek.png" alt="SafeSeek Framework" width="100%"/>
+</p>
 
 
 ## Project Structure
